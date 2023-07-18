@@ -1,6 +1,6 @@
 # Arithmetic Formatter
 
-# Project Description
+## Project Description
 
 ### Assignment
 
