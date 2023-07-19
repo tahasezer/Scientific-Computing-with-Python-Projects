@@ -1,5 +1,5 @@
 def add_time(start_time, duration, start_day=None):
-  # Splitting the start time and period (AM/PM)
+  # Splitting the start time and period
   start_time, period = start_time.split()
   
   # Splitting the hours and minutes of the start time
