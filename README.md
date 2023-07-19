@@ -3,3 +3,4 @@
 Solutions to the Scientific Computing with Python Certification projects.
 
 * Arithmetic Formatter
+* Time Calculator
