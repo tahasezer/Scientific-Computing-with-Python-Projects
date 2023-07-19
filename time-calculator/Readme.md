@@ -1,4 +1,4 @@
-# Arithmetic Formatter
+# Time Calculator
 
 ## Project Description
 
@@ -39,5 +39,6 @@ add_time("6:30 PM", "205:12")
 
 Do not import any Python libraries. Assume that the start times are valid times. The minutes in the duration time will be a whole number less than 60, but the hour can be any whole number.
 
+[FreeCodeCamp Link](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/time-calculator)
 
 
