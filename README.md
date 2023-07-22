@@ -5,3 +5,4 @@ Solutions to the [Scientific Computing with Python Certification](https://www.fr
 * Arithmetic Formatter
 * Time Calculator
 * Budget App
+* Polygon Area Calculator
