@@ -6,3 +6,4 @@ Solutions to the [Scientific Computing with Python Certification](https://www.fr
 * Time Calculator
 * Budget App
 * Polygon Area Calculator
+* Probability Calculator
